@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\bin\Debug\EDnevnik.exe.config
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\bin\Debug\EDnevnik.exe
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\bin\Debug\EDnevnik.pdb
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\obj\Debug\EDnevnik.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Osoba.resources
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Properties.Resources.resources
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\obj\Debug\EDnevnik.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\obj\Debug\EDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\obj\Debug\EDnevnik.exe
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\obj\Debug\EDnevnik.pdb
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Glavna.resources
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Login.resources
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Raspodela.resources
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Sifarnik.resources
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Glavna2.resources
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Upisnica.resources
+C:\Users\HP\Desktop\Folder\Programiranje\ednevnik\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Ocena.resources
